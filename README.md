@@ -5,5 +5,6 @@ Data Mining Programming Assignments
 - Task 1- Multi-Layer Perceptron
 - Task 2- Decision Tree
 - Task 3- Data Visualization
-- Task 4- Support Vector Machine (SVM) 
+- Task 4- Support Vector Machine (SVM)
+  
 2.) K-Means Implementation &  Color Quantization 
