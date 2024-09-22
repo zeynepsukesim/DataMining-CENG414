@@ -1,0 +1,231 @@
+_> D:\Python37\python.exe .\main.py .\bird.jpg 6 20 0.001
+Reading pixels...       DONE
+Fitting...
+KMeans iteration: 1
+KMeans iteration: 2
+KMeans iteration: 3
+KMeans iteration: 4
+KMeans iteration: 5
+KMeans iteration: 6
+KMeans iteration: 7
+KMeans iteration: 8
+KMeans iteration: 9
+KMeans iteration: 10
+KMeans iteration: 11
+KMeans iteration: 12
+KMeans iteration: 13
+KMeans iteration: 14
+KMeans iteration: 15
+KMeans iteration: 16
+KMeans iteration: 17
+KMeans iteration: 18
+KMeans iteration: 19
+KMeans iteration: 20
+Max iterations reached! Halting...
+Fitting... DONE
+Predicting...
+Prediction for (134, 66, 176) is cluster 5
+Prediction for (34, 36, 255) is cluster 4
+Prediction for (94, 166, 126) is cluster 5
+
+_> D:\Python37\python.exe .\main.py .\bird.jpg 24 20 0.001
+Reading pixels...       DONE
+Fitting...
+KMeans iteration: 1
+KMeans iteration: 2
+KMeans iteration: 3
+KMeans iteration: 4
+KMeans iteration: 5
+KMeans iteration: 6
+KMeans iteration: 7
+KMeans iteration: 8
+KMeans iteration: 9
+KMeans iteration: 10
+KMeans iteration: 11
+KMeans iteration: 12
+KMeans iteration: 13
+KMeans iteration: 14
+KMeans iteration: 15
+KMeans iteration: 16
+KMeans iteration: 17
+KMeans iteration: 18
+KMeans iteration: 19
+KMeans iteration: 20
+Max iterations reached! Halting...
+Fitting... DONE
+Predicting...
+Prediction for (134, 66, 176) is cluster 16
+Prediction for (34, 36, 255) is cluster 20
+Prediction for (94, 166, 126) is cluster 18
+
+
+_> D:\Python37\python.exe .\main.py .\clonewars.png 4 50 0.001
+Reading pixels...       DONE
+Fitting...
+KMeans iteration: 1
+KMeans iteration: 2
+KMeans iteration: 3
+KMeans iteration: 4
+KMeans iteration: 5
+KMeans iteration: 6
+KMeans iteration: 7
+KMeans iteration: 8
+KMeans iteration: 9
+KMeans iteration: 10
+KMeans iteration: 11
+Epsilon boundary reached! Halting...
+Fitting... DONE
+Predicting...
+Prediction for (134, 66, 176) is cluster 1
+Prediction for (34, 36, 255) is cluster 1
+Prediction for (94, 166, 126) is cluster 1
+
+_> D:\Python37\python.exe .\main.py .\clonewars.png 4 50 10 
+Reading pixels...       DONE
+Fitting...
+KMeans iteration: 1
+KMeans iteration: 2
+KMeans iteration: 3
+KMeans iteration: 4
+KMeans iteration: 5
+KMeans iteration: 6
+KMeans iteration: 7
+Epsilon boundary reached! Halting...
+Fitting... DONE
+Predicting...
+Prediction for (134, 66, 176) is cluster 1
+Prediction for (34, 36, 255) is cluster 1
+Prediction for (94, 166, 126) is cluster 1
+
+_> D:\Python37\python.exe .\main.py .\clonewars.png 4 50 100
+Reading pixels...       DONE
+Fitting...
+KMeans iteration: 1
+KMeans iteration: 2
+Epsilon boundary reached! Halting...
+Fitting... DONE
+Predicting...
+Prediction for (134, 66, 176) is cluster 1
+Prediction for (34, 36, 255) is cluster 1
+Prediction for (94, 166, 126) is cluster 1
+
+_> D:\Python37\python.exe .\main.py .\clonewars.png 16 50 0.001
+Reading pixels...       DONE
+Fitting...
+KMeans iteration: 1
+KMeans iteration: 2
+KMeans iteration: 3
+KMeans iteration: 4
+KMeans iteration: 5
+KMeans iteration: 6
+KMeans iteration: 7
+KMeans iteration: 8
+KMeans iteration: 9
+KMeans iteration: 10
+KMeans iteration: 11
+KMeans iteration: 12
+KMeans iteration: 13
+KMeans iteration: 14
+KMeans iteration: 15
+KMeans iteration: 16
+KMeans iteration: 17
+KMeans iteration: 18
+KMeans iteration: 19
+KMeans iteration: 20
+KMeans iteration: 21
+KMeans iteration: 22
+KMeans iteration: 23
+KMeans iteration: 24
+KMeans iteration: 25
+KMeans iteration: 26
+KMeans iteration: 27
+KMeans iteration: 28
+KMeans iteration: 29
+KMeans iteration: 30
+KMeans iteration: 31
+KMeans iteration: 32
+KMeans iteration: 33
+KMeans iteration: 34
+KMeans iteration: 35
+KMeans iteration: 36
+KMeans iteration: 37
+KMeans iteration: 38
+KMeans iteration: 39
+KMeans iteration: 40
+KMeans iteration: 41
+KMeans iteration: 42
+KMeans iteration: 43
+KMeans iteration: 44
+KMeans iteration: 45
+KMeans iteration: 46
+KMeans iteration: 47
+KMeans iteration: 48
+KMeans iteration: 49
+KMeans iteration: 50
+Max iterations reached! Halting...
+Fitting... DONE
+Predicting...
+Prediction for (134, 66, 176) is cluster 15
+Prediction for (34, 36, 255) is cluster 6
+Prediction for (94, 166, 126) is cluster 15
+
+
+_> D:\Python37\python.exe .\main.py .\clonewars.png 32 50 0.001
+Reading pixels...       DONE
+Fitting...
+KMeans iteration: 1
+KMeans iteration: 2
+KMeans iteration: 3
+KMeans iteration: 4
+KMeans iteration: 5
+KMeans iteration: 6
+KMeans iteration: 7
+KMeans iteration: 8
+KMeans iteration: 9
+KMeans iteration: 10
+KMeans iteration: 11
+KMeans iteration: 12
+KMeans iteration: 13
+KMeans iteration: 14
+KMeans iteration: 15
+KMeans iteration: 16
+KMeans iteration: 17
+KMeans iteration: 18
+KMeans iteration: 19
+KMeans iteration: 20
+KMeans iteration: 21
+KMeans iteration: 22
+KMeans iteration: 23
+KMeans iteration: 24
+KMeans iteration: 25
+KMeans iteration: 26
+KMeans iteration: 27
+KMeans iteration: 28
+KMeans iteration: 29
+KMeans iteration: 30
+KMeans iteration: 31
+KMeans iteration: 32
+KMeans iteration: 33
+KMeans iteration: 34
+KMeans iteration: 35
+KMeans iteration: 36
+KMeans iteration: 37
+KMeans iteration: 38
+KMeans iteration: 39
+KMeans iteration: 40
+KMeans iteration: 41
+KMeans iteration: 42
+KMeans iteration: 43
+KMeans iteration: 44
+KMeans iteration: 45
+KMeans iteration: 46
+KMeans iteration: 47
+KMeans iteration: 48
+KMeans iteration: 49
+KMeans iteration: 50
+Max iterations reached! Halting...
+Fitting... DONE
+Predicting...
+Prediction for (134, 66, 176) is cluster 28
+Prediction for (34, 36, 255) is cluster 26
+Prediction for (94, 166, 126) is cluster 28
