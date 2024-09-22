@@ -7,8 +7,7 @@ Data Mining Programming Assignments
 - Task 3- Data Visualization
 - Task 4- Support Vector Machine (SVM)
   
-Keywords: Weka, Classi cation, Multi-Layer Perceptron, Decision Tree, SVM, Generalized Se
-quence Pattern
+Keywords: Weka, Classification, Multi-Layer Perceptron, Decision Tree, SVM, Generalized Sequence Pattern
 
 2.) K-Means Implementation &  Color Quantization 
 
